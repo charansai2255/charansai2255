@@ -6,12 +6,6 @@
 
 Building scalable full-stack applications and intelligent AI-powered solutions.
 
-<br/>
-
-<a href="https://github.com/charansai2255">
-  <img src="https://komarev.com/ghpvc/?username=charansai2255&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-</a>
-
 </div>
 
 ---
