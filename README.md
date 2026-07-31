@@ -1,85 +1,81 @@
-<h1 align="center">Hi 👋, I'm Charan Sai Macha</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | AI Application Developer
-</h3>
+# Hi 👋, I'm Charan Sai Macha
 
-<p align="center">
-  Building scalable full-stack applications and AI-powered solutions
-</p>
+### Full Stack Developer • Python Developer • AI Application Developer
 
-<p align="center">
-  <a href="https://github.com/charansai2255">
-    <img src="https://komarev.com/ghpvc/?username=charansai2255&label=Profile%20Views&style=flat" alt="Profile Views" />
-  </a>
-</p>
+Building scalable full-stack applications and intelligent AI-powered solutions.
+
+<br/>
+
+<a href="https://github.com/charansai2255">
+  <img src="https://komarev.com/ghpvc/?username=charansai2255&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💻 Full Stack Developer passionate about building real-world applications
-* 🤖 Interested in AI-powered applications and Generative AI
-* 🌱 Exploring **Generative AI, LLM integrations, and scalable backend development**
+I'm a **Full Stack Developer** passionate about building practical, scalable applications and integrating AI into real-world software.
+
+* 💻 Building full-stack applications using **React, Python, FastAPI, Django, and Node.js**
+* 🤖 Interested in **Generative AI, LLM integrations, and AI-powered applications**
 * 🧠 Solved **200+ DSA problems**
 * 🏆 Earned the **50 Days LeetCode Badge**
-* 🎯 Open to **Software Developer, Full Stack Developer, and AI-focused roles**
+* 🚀 Experienced with REST APIs, authentication, databases, ML models, and cloud deployment
+* 🎯 Open to opportunities in **Software Development, Full Stack Development, Python Development, and AI Engineering**
 
 ---
 
-## 🚀 What I Work With
-
-**Frontend:** React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
-
-**Backend:** Python • FastAPI • Django • Flask • Node.js • Express.js
-
-**Databases:** PostgreSQL • MongoDB • MySQL
-
-**AI / ML:** Scikit-learn • YOLOv8 • Gemini API • Pandas • NumPy
-
-**Tools:** Git • GitHub • VS Code • Vercel • Render
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" alt="Programming Languages"/>
 </p>
 
-### Frontend
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend Technologies"/>
 </p>
 
-### Backend
+**React.js • Next.js • JavaScript • HTML5 • CSS3 • Tailwind CSS**
+
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express" alt="Backend Technologies"/>
 </p>
+
+**FastAPI • Django • Flask • Node.js • Express.js • REST APIs • JWT Authentication**
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases"/>
 </p>
 
-### AI / ML
+**PostgreSQL • MongoDB • MySQL • SQLAlchemy • Prisma**
+
+### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Machine Learning"/>
 </p>
 
-`YOLOv8` • `Gemini API` • `Pandas` • `NumPy` • `XGBoost`
+**Scikit-learn • YOLOv8 • XGBoost • Gemini API • Pandas • NumPy • Generative AI**
 
 ### Tools & Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development Tools"/>
 </p>
 
-`Render` • `Neon`
+**Git • GitHub • VS Code • Postman • Vercel • Render • Neon**
 
 ---
 
@@ -87,50 +83,130 @@ Full Stack Developer | AI Application Developer
 
 ### 🧠 ResumeIQ — AI Resume Analyzer
 
-AI-powered resume analysis platform that helps users analyze resumes, evaluate ATS compatibility, identify missing skills, match jobs, generate interview questions, and create cover letters.
+AI-powered resume analysis platform designed to help candidates improve their resumes and prepare for job opportunities.
 
-**Tech Stack:** React • FastAPI • PostgreSQL • Gemini AI • SQLAlchemy • JWT
+**Key Features**
 
-[View Repository](https://github.com/charansai2255/ResumeIQ-AI-Resume-Analyzer)
+* ATS resume analysis and scoring
+* Job description matching
+* Missing skills identification
+* AI-generated cover letters
+* Resume summarization
+* Interview question generation
+* Secure JWT-based authentication
 
----
+**Tech Stack:** `React` • `FastAPI` • `PostgreSQL` • `Gemini AI` • `SQLAlchemy` • `JWT`
 
-### 🌱 EcoTrace — Product Transparency & Sustainability
-
-QR-based platform designed to provide product transparency and sustainability information to consumers.
-
-**Tech Stack:** React • Node.js • MongoDB • Express.js
-
-[Live Demo](https://ecotrace-gcet.vercel.app)
+<a href="https://github.com/charansai2255/ResumeIQ-AI-Resume-Analyzer">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="ResumeIQ Repository"/>
+</a>
 
 ---
 
 ### 🚗 Car Price Prediction
 
-Machine learning application that predicts car prices through a full-stack web interface and deployed prediction API.
+Full-stack machine learning application that predicts vehicle prices based on user-provided vehicle information.
 
-**Tech Stack:** XGBoost • FastAPI • React • Python
+**Key Features**
 
-[View Repository](https://github.com/charansai2255/car_price_prediction)
+* Machine learning-based price prediction
+* FastAPI prediction API
+* Interactive React frontend
+* Deployed backend service
+* End-to-end ML integration
+
+**Tech Stack:** `Python` • `XGBoost` • `FastAPI` • `React` • `Machine Learning`
+
+<a href="https://github.com/charansai2255/car_price_prediction">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Car Price Prediction Repository"/>
+</a>
 
 ---
 
 ### 🔧 AI Vehicle Damage Detection & Repair Cost Estimator
 
-AI-powered system that detects vehicle damage from images and helps estimate repair costs.
+AI-powered vehicle inspection system designed to detect vehicle damage from images and assist with repair cost estimation.
 
-**Tech Stack:** YOLOv8 • Python • Flask • MySQL • Machine Learning
+**Key Features**
+
+* Vehicle damage detection from uploaded images
+* YOLOv8-based object detection
+* Damage analysis
+* Repair cost estimation
+* Full-stack integration
+
+**Tech Stack:** `Python` • `YOLOv8` • `Flask` • `MySQL` • `Machine Learning`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=charansai2255&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai2255&layout=compact&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=charansai2255&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charansai2255&show_icons=true&hide_border=true&rank_icon=github" alt="Charan's GitHub Stats"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai2255&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=charansai2255&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+### 200+ DSA Problems Solved
+
+Consistently practicing **Data Structures & Algorithms** and strengthening problem-solving skills through coding challenges.
+
+🏆 **50 Days LeetCode Badge**
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+* **Python for Data Science** — IBM
+* **Data Analytics Job Simulation** — Deloitte
+* **Java Advanced** — Oracle
+
+---
+
+## 🌱 Currently Exploring
+
+`Generative AI` • `LLM Integration` • `Backend Architecture` • `System Design` • `Cloud Deployment`
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/charan-sai-macha">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/charansai2255">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💡 Build. Learn. Improve. Repeat.
+
+Thanks for visiting my profile! ⭐
+
+</div>
