@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Charan Sai Macha</h1>
 
-<!--
-**charansai2255/charansai2255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | AI Application Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building scalable full-stack applications and AI-powered solutions
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/charansai2255">
+    <img src="https://komarev.com/ghpvc/?username=charansai2255&label=Profile%20Views&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 Full Stack Developer passionate about building real-world applications
+* 🤖 Interested in AI-powered applications and Generative AI
+* 🌱 Exploring **Generative AI, LLM integrations, and scalable backend development**
+* 🧠 Solved **200+ DSA problems**
+* 🏆 Earned the **50 Days LeetCode Badge**
+* 🎯 Open to **Software Developer, Full Stack Developer, and AI-focused roles**
+
+---
+
+## 🚀 What I Work With
+
+**Frontend:** React.js • Next.js • JavaScript • HTML • CSS • Tailwind CSS
+
+**Backend:** Python • FastAPI • Django • Flask • Node.js • Express.js
+
+**Databases:** PostgreSQL • MongoDB • MySQL
+
+**AI / ML:** Scikit-learn • YOLOv8 • Gemini API • Pandas • NumPy
+
+**Tools:** Git • GitHub • VS Code • Vercel • Render
