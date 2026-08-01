@@ -145,6 +145,12 @@ AI-powered vehicle inspection system that detects damaged vehicle parts from upl
 
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=charansai2255&theme=flat&margin-w=15&no-frame=true" />
+</p>
+
 
 ## 📊 GitHub Analytics
 
