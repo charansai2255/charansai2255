@@ -127,45 +127,51 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable web appli
 
 ---
 
-### 🚗 Car Price Prediction
+### 🚘 Car Price Prediction
 
-Full-stack machine learning application that predicts vehicle prices based on user-provided vehicle information.
+> **A machine learning application that predicts vehicle prices using historical data and exposes predictions through a FastAPI backend with a React frontend.**
 
-**Key Features**
+### ✨ Features
 
-* Machine learning-based price prediction
-* FastAPI prediction API
-* Interactive React frontend
-* Deployed backend service
-* End-to-end ML integration
+- 📈 Price Prediction
+- ⚡ FastAPI REST API
+- 🌐 React Frontend
+- 🤖 Machine Learning Model
+- 🚀 Deployment Ready
 
-**Tech Stack:** `Python` • `XGBoost` • `FastAPI` • `React` • `Machine Learning`
+### 🛠️ Tech Stack
 
+`Python` `XGBoost` `FastAPI` `React`
+
+<p>
 <a href="https://github.com/charansai2255/car_price_prediction">
-  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Car Price Prediction Repository"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 ---
 
-### 🔧 AI Vehicle Damage Detection & Repair Cost Estimator
+### 🚗 AI Vehicle Damage Detection & Repair Cost Estimator
 
-AI-powered vehicle inspection system that detects damaged vehicle parts from uploaded images and provides an estimated repair cost using deep learning.
+> **An AI-powered web application that detects vehicle damage from images and estimates repair costs using deep learning.**
 
-**Key Features**
+### ✨ Features
 
-* 🚗 Vehicle damage detection from uploaded images
-* 🎯 YOLOv8-based object detection model
-* 💰 Intelligent repair cost estimation
-* 📊 Damage analysis and prediction
-* 🌐 User-friendly web interface
-* 🔗 Full-stack AI integration
+- 📷 Upload Vehicle Images
+- 🤖 YOLOv8 Damage Detection
+- 💰 Repair Cost Estimation
+- 📊 Damage Analysis
+- 🌐 Flask Web Application
 
-**Tech Stack:** `Python` • `YOLOv8` • `Flask` • `MySQL` • `Machine Learning`
+### 🛠️ Tech Stack
 
+`Python` `YOLOv8` `Flask` `MySQL`
+
+<p>
 <a href="https://github.com/charansai2255/car_damage_detection_and_repair_cost_estimation">
-  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="AI Vehicle Damage Detection Repository"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
-
+</p>
 
 ---
 ## 📊 GitHub Analytics
@@ -233,3 +239,9 @@ Consistently practicing **Data Structures & Algorithms** and strengthening probl
 Thanks for visiting my profile! ⭐
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
