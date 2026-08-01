@@ -210,12 +210,6 @@ Consistently practicing **Data Structures & Algorithms** and strengthening probl
 
 ---
 
-## 🌱 Currently Exploring
-
-`Generative AI` • `LLM Integration` • `Backend Architecture` • `System Design` • `Cloud Deployment`
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
