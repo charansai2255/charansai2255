@@ -119,17 +119,23 @@ Full-stack machine learning application that predicts vehicle prices based on us
 
 ### 🔧 AI Vehicle Damage Detection & Repair Cost Estimator
 
-AI-powered vehicle inspection system designed to detect vehicle damage from images and assist with repair cost estimation.
+AI-powered vehicle inspection system that detects damaged vehicle parts from uploaded images and provides an estimated repair cost using deep learning.
 
 **Key Features**
 
-* Vehicle damage detection from uploaded images
-* YOLOv8-based object detection
-* Damage analysis
-* Repair cost estimation
-* Full-stack integration
+* 🚗 Vehicle damage detection from uploaded images
+* 🎯 YOLOv8-based object detection model
+* 💰 Intelligent repair cost estimation
+* 📊 Damage analysis and prediction
+* 🌐 User-friendly web interface
+* 🔗 Full-stack AI integration
 
 **Tech Stack:** `Python` • `YOLOv8` • `Flask` • `MySQL` • `Machine Learning`
+
+<a href="https://github.com/charansai2255/car_damage_detection_and_repair_cost_estimation">
+  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="AI Vehicle Damage Detection Repository"/>
+</a>
+
 
 ---
 
