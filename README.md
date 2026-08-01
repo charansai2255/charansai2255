@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
 <div align="center">
 
 <h1>Hi 👋, I'm Charan Sai Macha</h1>
