@@ -21,16 +21,13 @@
 </p>
 <p align="center">
 
-💻 Full Stack Developer • 🤖 AI Enthusiast • 🧠 200+ DSA Problems Solved • 🚀 Open to Opportunities
+💻 Full Stack Developer &nbsp; • &nbsp;
+🤖 AI Application Developer &nbsp; • &nbsp;
+🧠 200+ DSA Problems Solved &nbsp; • &nbsp;
+🚀 Open to Opportunities
 
 </p>
-<h2 align="center">
-Hi 👋 Welcome to my GitHub Profile
-</h2>
 
-<p align="center">
-Building scalable Full Stack and AI-powered applications.
-</p>
 ---
 
 ## 👨‍💻 About Me
