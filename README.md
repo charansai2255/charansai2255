@@ -239,9 +239,3 @@ Consistently practicing **Data Structures & Algorithms** and strengthening probl
 Thanks for visiting my profile! ⭐
 
 </div>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
