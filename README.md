@@ -1,23 +1,13 @@
 <p align="center">
   <img src="github-banner.png" alt="GitHub Banner" width="100%" />
 </p>
-<div align="center">
-
-<h1>Hi 👋, I'm Charan Sai Macha</h1>
+<h2 align="center">
+Hi 👋 Welcome to my GitHub Profile
+</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+Application+Developer;FastAPI+%7C+React+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+Building scalable Full Stack and AI-powered applications.
 </p>
-
-<h3>
-Full Stack Developer • Python Developer • AI Application Developer
-</h3>
-
-<p>
-Building scalable full-stack applications and intelligent AI-powered solutions.
-</p>
-
-</div>
 ---
 
 ## 👨‍💻 About Me
