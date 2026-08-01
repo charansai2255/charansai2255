@@ -19,6 +19,11 @@
 </a>
 
 </p>
+<p align="center">
+
+💻 Full Stack Developer • 🤖 AI Enthusiast • 🧠 200+ DSA Problems Solved • 🚀 Open to Opportunities
+
+</p>
 <h2 align="center">
 Hi 👋 Welcome to my GitHub Profile
 </h2>
