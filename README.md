@@ -32,17 +32,23 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** passionate about building practical, scalable applications and integrating AI into real-world software.
+I'm a passionate **Full Stack Developer** who enjoys building scalable web applications and AI-powered solutions. I love solving real-world problems through clean code, modern technologies, and continuous learning.
 
-* 💻 Building full-stack applications using **React, Python, FastAPI, Django, and Node.js**
-* 🤖 Interested in **Generative AI, LLM integrations, and AI-powered applications**
-* 🧠 Solved **200+ DSA problems**
-* 🏆 Earned the **50 Days LeetCode Badge**
-* 🚀 Experienced with REST APIs, authentication, databases, ML models, and cloud deployment
-* 🎯 Open to opportunities in **Software Development, Full Stack Development, Python Development, and AI Engineering**
-
+- 🔭 Currently building AI-powered Full Stack applications
+- 🌱 Learning System Design, Cloud, and Generative AI
+- 💼 Interested in Software Engineering & AI roles
+- 🧠 Solved 200+ Data Structures & Algorithms problems
+- 🚀 Passionate about scalable backend systems and REST APIs
+- ⚡ Love turning ideas into real-world products
 ---
 
+## 🚀 Current Focus
+
+- 🧠 Building AI-powered Full Stack Projects
+- ⚡ Strengthening Data Structures & Algorithms
+- ☁️ Learning Cloud & System Design
+- 🤖 Exploring Large Language Models (LLMs)
+- 
 ## 🛠️ Technical Skills
 
 ### Languages
