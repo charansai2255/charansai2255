@@ -103,23 +103,27 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable web appli
 
 ### 🧠 ResumeIQ — AI Resume Analyzer
 
-AI-powered resume analysis platform designed to help candidates improve their resumes and prepare for job opportunities.
+> **An AI-powered platform that helps job seekers optimize their resumes for ATS systems and interview preparation.**
 
-**Key Features**
+### ✨ Features
 
-* ATS resume analysis and scoring
-* Job description matching
-* Missing skills identification
-* AI-generated cover letters
-* Resume summarization
-* Interview question generation
-* Secure JWT-based authentication
+- 📄 Resume Parsing
+- 🎯 ATS Score Analysis
+- 🤝 Job Match Analysis
+- 📋 Resume Summary
+- 💌 AI Cover Letter Generation
+- 🎤 AI Interview Questions
+- 🔐 JWT Authentication
 
-**Tech Stack:** `React` • `FastAPI` • `PostgreSQL` • `Gemini AI` • `SQLAlchemy` • `JWT`
+### 🛠️ Tech Stack
 
+`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Gemini AI` `JWT`
+
+<p>
 <a href="https://github.com/charansai2255/ResumeIQ-AI-Resume-Analyzer">
-  <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github" alt="ResumeIQ Repository"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 ---
 
