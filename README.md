@@ -148,27 +148,23 @@ AI-powered vehicle inspection system that detects damaged vehicle parts from upl
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=charansai2255&theme=flat&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=charansai2255&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=charansai2255&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charansai2255&show_icons=true&hide_border=true&rank_icon=github" alt="Charan's GitHub Stats"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai2255&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai2255&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=charansai2255&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=charansai2255&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
