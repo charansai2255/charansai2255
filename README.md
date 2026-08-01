@@ -4,6 +4,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Python+%7C+FastAPI+%7C+React;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/charan-sai-macha-763404290">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:charansaimacha123.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/charansai2255">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 <h2 align="center">
 Hi 👋 Welcome to my GitHub Profile
 </h2>
