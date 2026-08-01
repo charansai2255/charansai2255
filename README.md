@@ -185,7 +185,7 @@ Consistently practicing **Data Structures & Algorithms** and strengthening probl
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/charan-sai-macha">
+<a href="[https://www.linkedin.com/in/charan-sai-macha](https://www.linkedin.com/in/charan-sai-macha-763404290)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
