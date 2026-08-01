@@ -1,6 +1,9 @@
 <p align="center">
   <img src="github-banner.png" alt="GitHub Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Application+Developer;Python+%7C+FastAPI+%7C+React;Building+Scalable+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 <h2 align="center">
 Hi 👋 Welcome to my GitHub Profile
 </h2>
