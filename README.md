@@ -174,19 +174,6 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable web appli
 </p>
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charansai2255&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charansai2255&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=charansai2255&theme=tokyonight"/>
-</p>
-
----
 
 ## 🧩 Problem Solving
 
