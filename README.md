@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Developer** who enjoys building scalable web appli
 - ⚡ Strengthening Data Structures & Algorithms
 - ☁️ Learning Cloud & System Design
 - 🤖 Exploring Large Language Models (LLMs)
-- 
+  
 ## 🛠️ Technical Skills
 
 ### Languages
