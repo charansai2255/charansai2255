@@ -142,16 +142,6 @@ A traceability platform that lets consumers scan a QR code to view a product's f
 
 <br/>
 
-## 📊 By the Numbers
-
-<div align="center">
-
-**200+** DSA problems solved across LeetCode, HackerRank & Codeforces &nbsp;·&nbsp; **6** shipped projects &nbsp;·&nbsp; **B.Tech CSE** graduate
-
-</div>
-
-<br/>
-
 <div align="center">
 
 ### 📫 Let's build something
