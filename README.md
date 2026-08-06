@@ -5,8 +5,6 @@
 <br/>
 
 ```
-$ whoami
-```
 
 ### Charan Sai Macha
 **Turning `console.log("idea")` into shipped products.**
