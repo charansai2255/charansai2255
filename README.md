@@ -1,65 +1,114 @@
-<p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Application+Developer;Python+%7C+FastAPI+%7C+React" alt="Typing SVG" />
-</p>
+<img src="github-banner.png" alt="Banner" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/charan-sai-macha-763404290"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:charansaimacha123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/charansai2255"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br/>
 
-<p align="center">
-  💻 Full Stack Developer &nbsp;•&nbsp; 🤖 AI Application Developer &nbsp;•&nbsp; 🧠 200+ DSA Problems &nbsp;•&nbsp; 🚀 Open to Opportunities
-</p>
+```
+$ whoami
+```
 
----
+### Charan Sai Macha
+**Turning `console.log("idea")` into shipped products.**
 
-### 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Building+with+FastAPI+%2B+React;Currently+shipping+a+RAG-based+Notes+Q%26A+app;200%2B+DSA+problems+deep" alt="Typing SVG" />
 
-Full Stack Developer who builds scalable web apps and AI-powered solutions. Currently exploring LLMs, system design, and cloud — always turning ideas into working products.
+<br/><br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-sai-macha-763404290)
+[![Gmail](https://img.shields.io/badge/-Say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:charansaimacha123@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charansai2255)
 
-### 🛠️ Tech Stack
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,react,nextjs,tailwind,fastapi,django,flask,nodejs,postgres,mongodb,mysql,git,github,vscode,vercel" alt="Tech Stack"/>
-</p>
+<br/>
 
-**AI/ML:** Scikit-learn • YOLOv8 • XGBoost • Gemini API • Pandas • NumPy
+## ⚡ The short version
 
----
+I build things end-to-end — backend logic, database design, and the UI that sits on top of it. Right now I'm deep in **retrieval-augmented generation**, building a personal notes Q&A system from the ground up (FastAPI + ChromaDB + the Anthropic API). Outside of that, I'm grinding DSA and getting ready to walk into placement interviews and actually enjoy them.
 
-### 🚀 Featured Projects
+<br/>
 
-**[ResumeIQ — AI Resume Analyzer](https://github.com/charansai2255/ResumeIQ-AI-Resume-Analyzer)**
-AI platform for ATS scoring, job-match analysis, and AI-generated cover letters & interview questions.
-`React` `FastAPI` `PostgreSQL` `Gemini AI` `JWT`
+## 🧰 What I build with
 
-**[Car Price Prediction](https://github.com/charansai2255/car_price_prediction)**
-ML model predicting vehicle prices, served via a FastAPI backend with a React frontend.
-`Python` `XGBoost` `FastAPI` `React`
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**[AI Vehicle Damage Detection](https://github.com/charansai2255/car_damage_detection_and_repair_cost_estimation)**
-Detects vehicle damage from images and estimates repair costs using deep learning.
-`Python` `YOLOv8` `Flask` `MySQL`
+**Languages**
+`Python` `Java` `JavaScript` `C++`
 
----
+**Frontend**
+`React` `Next.js` `Tailwind CSS`
 
-### 🎓 Certifications
+</td>
+<td valign="top" width="50%">
 
-Python for Data Science (IBM) • Data Analytics Job Simulation (Deloitte) • Java Advanced (Oracle)
+**Backend**
+`FastAPI` `Django` `Flask` `Node.js`
 
----
+**Data & AI**
+`PostgreSQL` `MongoDB` `SQLAlchemy` `Scikit-learn` `YOLOv8` `Gemini API`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚧 Building right now
+
+> **Personal Notes Q&A** — a RAG-powered app that lets you chat with your own notes.
+> `FastAPI` · `SQLAlchemy` · `ChromaDB` · `sentence-transformers` · `Anthropic API` · `React`
+
+Auth and the data layer are done — next up is wiring in JWT-based sessions before moving into the retrieval pipeline.
+
+<br/>
+
+## 🗂️ A few things I've shipped
+
+<details open>
+<summary><b>ResumeIQ — AI Resume Analyzer</b></summary>
+<br/>
+
+ATS scoring, job-match analysis, AI-generated cover letters, and mock interview questions — all in one place.
+
+`React` `FastAPI` `PostgreSQL` `Gemini AI` `JWT` &nbsp; [→ Source](https://github.com/charansai2255/ResumeIQ-AI-Resume-Analyzer)
+
+</details>
+
+<details>
+<summary><b>Car Price Prediction</b></summary>
+<br/>
+
+An XGBoost model wrapped in a FastAPI service, with a React frontend for instant price estimates.
+
+`Python` `XGBoost` `FastAPI` `React` &nbsp; [→ Source](https://github.com/charansai2255/car_price_prediction)
+
+</details>
+
+<details>
+<summary><b>AI Vehicle Damage Detection</b></summary>
+<br/>
+
+Upload a photo of a damaged vehicle, get a YOLOv8-powered damage assessment and repair cost estimate.
+
+`Python` `YOLOv8` `Flask` `MySQL` &nbsp; [→ Source](https://github.com/charansai2255/car_damage_detection_and_repair_cost_estimation)
+
+</details>
+
+<br/>
+
+## 🎯 Credentials
+
+Python for Data Science — IBM &nbsp;·&nbsp; Data Analytics Job Simulation — Deloitte &nbsp;·&nbsp; Java Advanced — Oracle
+
+<br/>
 
 <div align="center">
 
-**🏆 200+ DSA Problems Solved &nbsp;|&nbsp; 50 Days LeetCode Badge**
+**200+ DSA problems solved** · **50-day LeetCode streak**
 
-⭐ Thanks for stopping by!
+<sub>Currently open to Full Stack, Backend, and Python developer roles — let's talk.</sub>
 
 </div>
